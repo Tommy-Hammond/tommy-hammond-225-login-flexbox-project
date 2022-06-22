@@ -44,6 +44,16 @@ html,body {
     box-shadow: 1px 1px 8px 0px rgba(0,0,0,0.36);
 }
 
+.button:hover {
+    transform: scale(1.05, 1.05);
+    background-color: #1390dec4;
+}
+
+.button:active {
+    transform: scale(1, 1);
+
+}
+
 .field {
     border: none;
     border-bottom: 1px solid rgb(59, 59, 59);
