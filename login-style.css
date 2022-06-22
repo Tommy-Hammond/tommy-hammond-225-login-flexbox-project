@@ -13,7 +13,6 @@ html,body {
 
 .card {
     border: none;
-    border-width: 4px;
     border-radius: 25px;
     background-color: #ffff;
     min-width: 30%;
@@ -28,7 +27,6 @@ html,body {
     padding-bottom: 2%;
     padding-left: 8%;
     padding-right: 8%;
-    margin: 5px;
     font-family: 'Helvetica', sans-serif;
 }
 
@@ -51,7 +49,6 @@ html,body {
 
 .button:active {
     transform: scale(1, 1);
-
 }
 
 .field {
